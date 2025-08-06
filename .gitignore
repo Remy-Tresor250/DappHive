@@ -27,4 +27,8 @@ build/Release
 node_modules
 package-lock.json
 build/
-fake_commits.sh
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
